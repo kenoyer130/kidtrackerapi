@@ -1,0 +1,10 @@
+.classpath
+.gradle
+.properties
+.settings
+bin
+build
+lib
+*.zip
+properties
+*.swp
